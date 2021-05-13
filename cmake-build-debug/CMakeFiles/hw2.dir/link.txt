@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw2.a CMakeFiles/hw2.dir/hw2_test.cxx.o CMakeFiles/hw2.dir/test1.cxx.o
+/usr/bin/ranlib libhw2.a
